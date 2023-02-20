@@ -24,5 +24,7 @@ public class Zmienne {
 
         boolean slonce = true; //false
 
+        // https://github.com/przemjan/czwartacgr12023
+
     }
 }
