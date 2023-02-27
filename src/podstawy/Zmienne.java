@@ -1,3 +1,5 @@
+package podstawy;
+
 public class Zmienne {
     public static void main(String[] args) {
         int liczba1, liczba3;
@@ -25,6 +27,11 @@ public class Zmienne {
         boolean slonce = true; //false
 
         // https://github.com/przemjan/czwartacgr12023
+
+        // windows r
+        // \\ubuckp
+
+        // public/janisz
 
     }
 }
